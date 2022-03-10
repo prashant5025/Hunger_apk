@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "652831721322",
+    "project_id": "hunger-app-ea531",
+    "storage_bucket": "hunger-app-ea531.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652831721322:android:473fae77d433953e3ec713",
+        "android_client_info": {
+          "package_name": "com.example.aahaarapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652831721322-g5rvgiks1aukg73kfgcru5knsrt1i0aa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNlWm0QD0mqBowj234x1D3IZyrb0aL12w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652831721322-g5rvgiks1aukg73kfgcru5knsrt1i0aa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
